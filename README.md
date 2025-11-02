@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Enos Ivory  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por **cibersegurança, redes e desenvolvimento backend**  
+💻 Interessado em **cibersegurança, redes e desenvolvimento backend**  
 🚀 Explorando tecnologias para crescer como **profissional em TI**  
 
 ---
