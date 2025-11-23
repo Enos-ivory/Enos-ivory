@@ -20,8 +20,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea)
+
 
 ---
 
