@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Interessado em **cibersegurança, redes e desenvolvimento backend**  
-🚀 Explorando tecnologias para crescer como **profissional em TI**  
+ 
 
 ---
 
